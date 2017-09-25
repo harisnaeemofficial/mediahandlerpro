@@ -1,0 +1,15 @@
+F:\MHP\58\MediaHandler\MediaHandler\bin\Debug\MediaHandler.dll
+F:\MHP\58\MediaHandler\MediaHandler\bin\Debug\MediaHandler.pdb
+F:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.csprojResolveAssemblyReference.cache
+F:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.dll
+F:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.pdb
+G:\MHP\58\MediaHandler\MediaHandler\bin\Debug\MediaHandler.dll
+G:\MHP\58\MediaHandler\MediaHandler\bin\Debug\MediaHandler.pdb
+G:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.csprojResolveAssemblyReference.cache
+G:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.dll
+G:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.pdb
+D:\MHP\58\MediaHandler\MediaHandler\bin\Debug\MediaHandler.dll
+D:\MHP\58\MediaHandler\MediaHandler\bin\Debug\MediaHandler.pdb
+D:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.csprojResolveAssemblyReference.cache
+D:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.dll
+D:\MHP\58\MediaHandler\MediaHandler\obj\Debug\MediaHandler.pdb

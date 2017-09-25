@@ -1,0 +1,5 @@
+G:\MHP\58\MediaHandler\MediaHandler\bin\x64\Release\MediaHandler.dll
+G:\MHP\58\MediaHandler\MediaHandler\bin\x64\Release\MediaHandler.pdb
+G:\MHP\58\MediaHandler\MediaHandler\obj\x64\Release\MediaHandler.dll
+G:\MHP\58\MediaHandler\MediaHandler\obj\x64\Release\MediaHandler.pdb
+G:\MHP\58\MediaHandler\MediaHandler\obj\x64\Release\MediaHandler.csprojResolveAssemblyReference.cache

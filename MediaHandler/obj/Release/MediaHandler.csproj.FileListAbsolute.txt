@@ -1,0 +1,10 @@
+F:\MHP\58\MediaHandler\MediaHandler\bin\Release\MediaHandler.dll
+F:\MHP\58\MediaHandler\MediaHandler\bin\Release\MediaHandler.pdb
+F:\MHP\58\MediaHandler\MediaHandler\obj\Release\MediaHandler.dll
+F:\MHP\58\MediaHandler\MediaHandler\obj\Release\MediaHandler.pdb
+F:\MHP\58\MediaHandler\MediaHandler\obj\Release\MediaHandler.csprojResolveAssemblyReference.cache
+G:\MHP\58\MediaHandler\MediaHandler\bin\Release\MediaHandler.dll
+G:\MHP\58\MediaHandler\MediaHandler\bin\Release\MediaHandler.pdb
+G:\MHP\58\MediaHandler\MediaHandler\obj\Release\MediaHandler.csprojResolveAssemblyReference.cache
+G:\MHP\58\MediaHandler\MediaHandler\obj\Release\MediaHandler.dll
+G:\MHP\58\MediaHandler\MediaHandler\obj\Release\MediaHandler.pdb
